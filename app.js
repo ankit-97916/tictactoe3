@@ -76,4 +76,5 @@ const resetGame = () => {
 newGameBtn.addEventListener("click", resetGame);
 resetBtn.addEventListener("click", resetGame);
 
-// add a form
+
+// create a form tag for submit your info. 
